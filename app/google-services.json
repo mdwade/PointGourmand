@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613325487123",
+    "firebase_url": "https://gourman-fd71b.firebaseio.com",
+    "project_id": "gourman-fd71b",
+    "storage_bucket": "gourman-fd71b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613325487123:android:359616c362cb64ac",
+        "android_client_info": {
+          "package_name": "com.pg.sn.point_gourmand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613325487123-vrots5p4vhmm342qtjf17e2ppcdelk7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pg.sn.point_gourmand",
+            "certificate_hash": "806bb1c795487098dfdd7c4e9ca9739147767beb"
+          }
+        },
+        {
+          "client_id": "613325487123-a0jfek1al258ar7q0datuj0rtop0jdj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4I5hPnQuzn2GM2RwYfYXLI1bOBmL3qRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613325487123-a0jfek1al258ar7q0datuj0rtop0jdj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
